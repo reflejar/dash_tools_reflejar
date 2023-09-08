@@ -1,14 +1,12 @@
 [tool.poetry]
 name = "dash-tools-reflejar"
-version = "0.1.0"
+version = "0.1.1"
 description = "Herramientas de Dash construidas sobre el ecosistema de desarrollo de reflejar para crear fácilmente componentes de visualización y geolocalización."
-authors = ["Pano Valdez <marianovaldez92@protonmail.com>"]
+authors = ["tecquipo <hola@reflej.ar>"]
 readme = "README.md"
 packages = [{include = "src"}]
 license = "MIT"
 homepage = "https://github.com/reflejar/dash_tools_reflejar/"
-
-
 
 
 [tool.poetry.dependencies]
